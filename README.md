@@ -6,8 +6,8 @@
 
 ## About Me
 - 🎓 Final-year B.Tech student in **Biotechnology**, NIT Rourkela
-- 📊 Passionate about **Data Analytics** and **Machine Learning**
-- 💻 Skilled in **Python**, **SQL**, and **Power BI**
+- 📊 Passionate about **Data Science** and **Machine Learning**
+- 💻 Skilled in **Python**, **SQL**, **Excel**and **Power BI**
 - 📈 Experienced with **pandas**, **NumPy**, **matplotlib**, and **scikit-learn**
 - 💡 Strong problem-solving mindset with focus on data-driven insights
 - 🔍 Exploring tools like **TensorFlow**, **Seaborn**, and **Excel** for visual storytelling
