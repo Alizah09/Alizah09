@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋!!</h1>
 
 <span href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=yellow&size=20&lines=%F0%9F%8F%86+Welcome+to+my+GitHub+Profile+%21%21;**%F0%9F%91%89+I'm+Amajad+Ali+%21%21**;**%F0%9F%93%8A+Aspiring+Data+Analyst+%26+ML+Enthusiast%21%21**;**%F0%9F%A7%90+B.Tech+Biotech+@+NIT+Rourkela%21%21**;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=yellow&size=20&lines=%F0%9F%8F%86+Welcome+to+my+GitHub+Profile+%21%21;**%F0%9F%91%89+I'm+Amajad+Ali+%21%21**;**%F0%9F%93%8A+Aspiring+Data+Science+%26+ML+Enthusiast%21%21**;**%F0%9F%A7%90+B.Tech+Biotech+@+NIT+Rourkela%21%21**;">
 </span>
 
 ## About Me
