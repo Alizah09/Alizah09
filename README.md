@@ -9,9 +9,9 @@
 
 ## About Me
 * 🤖 AI Engineer at Happiest Minds Technologies
-* 🎓 Graduate from NIT Rourkela
+* 🎓 Graduated from NIT Rourkela May 2026
 * 🧠 Passionate about Generative AI, LLMs, AI Agents, and Multi-Agent Systems
-* 💻 Skilled in Python, SQL, FastAPI, and AI application development
+* 💻 Skilled in Python, Databases, FastAPI, and AI application development
 * ⚡ Building intelligent workflows, agentic systems, and AI-powered solutions
 * 🚀 Exploring Agentic AI, RAG, Prompt Engineering, and scalable AI architectures
 
