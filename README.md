@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-121D33?style=plastic"/>
+<img src="https://img.shields.io/badge/LangGraph-121D33?style=plastic"/>
 <img src="https://img.shields.io/badge/CrewAI-6E57FF?style=plastic"/>
 <img src="https://img.shields.io/badge/RAG-00C853?style=plastic"/>
 <img src="https://img.shields.io/badge/LLMs-FF4B4B?style=plastic"/>
